@@ -1,3 +1,3 @@
-# IJCAI_2018_fianl code
+# IJCAI_2018_final code
 Rank 60
 
