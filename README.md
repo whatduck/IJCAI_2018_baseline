@@ -1,5 +1,6 @@
 ### IJCAI_2018_final code
-Rank 60/5204;top1.1%
+* Rank 60/5204;  
+* top1.1%
 ### 运行所需库<br>
  * python 3.5.2
  * numpy
